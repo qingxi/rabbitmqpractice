@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/RabbitMQDemo/basic/Cosummer.java=UTF-8
+encoding//src/main/java/RabbitMQDemo/pubsub=UTF-8
+encoding//src/main/java/RabbitMQDemo/routing/PubBus.java=UTF-8
+encoding//src/main/java/RabbitMQDemo/workqueue/OrderSystem.java=UTF-8
+encoding//src/main/java/RabbitMQDemo/workqueue/SMSSender1.java=UTF-8
+encoding//src/main/java/RabbitMQDemo/workqueue/SMSSender2.java=UTF-8
+encoding//src/main/java/RabbitMQDemo/workqueue/SMSSender3.java=UTF-8
